@@ -13,7 +13,7 @@ title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Wanpeng Zhang"
 description              : &description "personal description"
-url                      : https://Frost-Descent.github.io 
+url                      : https://frost-descent.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Frost-Descents/Frost-Descent.github.io"
 
