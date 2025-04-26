@@ -14,6 +14,7 @@ I'm a fourth year undergraduate student from [Beijing Institute of Technology](h
 
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-You can find my Email here:wy1725560231@163.com
+
+You can find my Email here:wy1725560231@163.com.
 
 [Email](mailto:wy1725560231@163.com) / [Github](https://github.com/Frost-Descent) / [Wechat](../images/wechat.jpg) / [CSDN](#https://blog.csdn.net/weixin_73404807?spm=1000.2115.3001.5343)
