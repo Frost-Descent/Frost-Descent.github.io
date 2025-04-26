@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Wanpeng Zhang"
-  pronouns         : "he"  
+  pronouns         : #"he"  
   bio              : "Temet nosce"
   location         : "China Beijing"
   employer         : "Beijing Institute of Technology"
