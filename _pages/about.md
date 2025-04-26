@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I'm a fourth year undergraduate student from [Beijing Institute of Technology](https://www.pku.edu.cn/). My research interest includes computer vision, machine learning, and Deep learning.
+I'm a fourth year undergraduate student from [Beijing Institute of Technology](https://www.pku.edu.cn/). My research interest includes computer vision, machine learning, and deep learning.
 
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
